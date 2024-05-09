@@ -2,10 +2,10 @@
 
 [Header
   fullWidth:true
-  title:"WorkingWithIdyll"
-  subtitle:"Welcome to Idyll. Open index.idyll to start writing"
+  title:"Working With the Idyll Language"
+  subtitle:"First Experiments with the Idyll Language"
   author:"Arvind V"
-  authorLink:"https://idyll-lang.org"
+  authorLink:"https://arvindvenkatadri.com"
   date:"May 2, 2024"
   background:"#222222"
   color:"#ffffff"
