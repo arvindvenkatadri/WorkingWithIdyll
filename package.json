@@ -15,7 +15,6 @@
     "d3-selection": "^2.0.0",
     "d3-transition": "^2.0.0",
     "idyll": "6.0.0-alpha.4",
-    "idyll-apparatus-component": "^1.0.7",
     "idyll-d3-component": "^2.0.0"
   }
 }
